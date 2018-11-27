@@ -1,2 +1,2 @@
 # Student Council App GitHub Master
-CLICK ON A BRANCH TO EDIT. YOU EDIT, BUT IT'S IN JSON FORMAT. DON'T MESS UP ANYTHING!
+Welcome, future admins! Please read the Wiki (the little book icon).
